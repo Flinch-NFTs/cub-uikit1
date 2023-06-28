@@ -3,7 +3,9 @@ import { renderWithTheme } from "../../testHelpers";
 import { Alert } from "../../components/Alert";
 
 it("renders correctly", () => {
-  const { asFragment } = renderWithTheme(<Alert title="Alert title">Description</Alert>);
+  const { asFragment } = renderWithTheme(
+    <Alert title="Alert title">Description</Alert>
+  );
 
   expect(asFragment()).toMatchInlineSnapshot(`
     <DocumentFragment>
@@ -18,14 +20,14 @@ it("renders correctly", () => {
     }
 
     .c5 {
-      color: #452A7A;
+      color: rgba(193, 57, 80, 0.25);
       font-size: 16px;
       font-weight: 600;
       line-height: 1.5;
     }
 
     .c6 {
-      color: #452A7A;
+      color: rgba(193, 57, 80, 0.25);
       font-size: 16px;
       font-weight: 400;
       line-height: 1.5;

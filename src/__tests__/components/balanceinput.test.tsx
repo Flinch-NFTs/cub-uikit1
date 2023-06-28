@@ -5,7 +5,9 @@ import BalanceInput from "../../components/BalanceInput/BalanceInput";
 const handleChange = jest.fn();
 
 it("renders correctly", () => {
-  const { asFragment } = renderWithTheme(<BalanceInput value="14" currencyValue="15 USD" onChange={handleChange} />);
+  const { asFragment } = renderWithTheme(
+    <BalanceInput value="14" currencyValue="15 USD" onChange={handleChange} />
+  );
   expect(asFragment()).toMatchInlineSnapshot(`
     <DocumentFragment>
       .c3 {
@@ -22,7 +24,7 @@ it("renders correctly", () => {
       border: 0;
       border-radius: 16px;
       box-shadow: inset 0px 2px 2px -1px rgba(74,74,104,0.1);
-      color: #452A7A;
+      color: rgba(193, 57, 80, 0.25);
       display: block;
       font-size: 16px;
       height: 40px;
