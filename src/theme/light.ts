@@ -12,7 +12,8 @@ import { lightColors } from "./colors";
 
 const lightTheme: DefaultTheme = {
   ...base,
-  isDark: false,
+
+  isDark: true,
   alert: lightAlert,
   colors: lightColors,
   card: lightCard,
