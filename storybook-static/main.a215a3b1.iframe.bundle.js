@@ -98,7 +98,7 @@
           contrast: "#FFFFFF",
           dropdown: "#1E1D20",
           invertedContrast: "#191326",
-          input: "#011A27",
+          input: "#202022",
           inputSecondary: "#66578D",
           primaryDark: "#97161e",
           tertiary: "#353547",
