@@ -47,9 +47,9 @@ export const links = [
     href: "/syrup",
   },
   {
-    label: 'Bridge',
-    icon: 'NftIcon',
-    href: 'https://bridge.cubdefi.com/',
+    label: "Bridge",
+    icon: "NftIcon",
+    href: "https://bridge.cubdefi.com/",
   },
   {
     label: "Lottery",
@@ -134,8 +134,8 @@ export const links = [
       },
       {
         label: "Discord",
-        href: "https://discord.gg/wWJxRE2k9B"
-      }
+        href: "https://discord.gg/wWJxRE2k9B",
+      },
     ],
   },
 ];
@@ -147,14 +147,14 @@ export const socials = [
     items: [
       {
         label: "English",
-        href: "https://t.me/cubdefi"
+        href: "https://t.me/ChirpFinance",
       },
     ],
   },
   {
     label: "Twitter",
     icon: "TwitterIcon",
-    href: "https://twitter.com/financeleo",
+    href: "https://twitter.com/ChirpFinance",
   },
 ];
 
