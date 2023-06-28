@@ -78,7 +78,7 @@
           input: "#eeeaf4",
           inputSecondary: "#d7caec",
           tertiary: "#EFF4F5",
-          text: "#2a4a7a",
+          text: "#c13950",
           textDisabled: "#BDC2C4",
           textSubtle: "#c13950",
           borderColor: "#E9EAEB",
@@ -24927,7 +24927,7 @@
           warning:
             "0px 0px 0px 1px #ED4B9E, 0px 0px 0px 4px rgba(237, 75, 158, 0.2)",
           focus:
-            "0px 0px 0px 1px #0675B1, 0px 0px 0px 4px rgba(6, 117, 177, 0.6)",
+            "0px 0px 0px 1px #c13950, 0px 0px 0px 4px rgba(6, 117, 177, 0.6)",
           inset: "inset 0px 2px 2px -1px rgba(74, 74, 104, 0.1)",
         };
       __webpack_exports__.b = {

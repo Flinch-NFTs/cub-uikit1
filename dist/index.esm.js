@@ -6175,7 +6175,7 @@ var shadows = {
   active: "0px 0px 0px 1px #0098A1, 0px 0px 4px 8px rgba(31, 199, 212, 0.4)",
   success: "0px 0px 0px 1px #31D0AA, 0px 0px 0px 4px rgba(49, 208, 170, 0.2)",
   warning: "0px 0px 0px 1px #ED4B9E, 0px 0px 0px 4px rgba(237, 75, 158, 0.2)",
-  focus: "0px 0px 0px 1px #0675B1, 0px 0px 0px 4px rgba(6, 117, 177, 0.6)",
+  focus: "0px 0px 0px 1px #c13950, 0px 0px 0px 4px rgba(6, 117, 177, 0.6)",
   inset: "inset 0px 2px 2px -1px rgba(74, 74, 104, 0.1)",
 };
 var spacing = [0, 4, 8, 16, 24, 32, 48, 64];
@@ -9323,7 +9323,7 @@ var baseColors = {
   primary: "#c13950",
   primaryBright: "#31b3f7",
   primaryDark: "#024179",
-  secondary: "#0675B1",
+  secondary: "#c13950",
   success: "#31D0AA",
   warning: "#FFB237",
 };
@@ -9340,7 +9340,7 @@ var lightColors = __assign(__assign(__assign({}, baseColors), brandColors), {
   input: "#eeeaf4",
   inputSecondary: "#d7caec",
   tertiary: "#EFF4F5",
-  text: "#2a4a7a",
+  text: "#c13950",
   textDisabled: "#BDC2C4",
   textSubtle: "#c13950",
   borderColor: "#E9EAEB",
