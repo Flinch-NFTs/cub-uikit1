@@ -9502,7 +9502,7 @@ var darkColors = __assign(__assign(__assign({}, baseColors), brandColors), {
   dropdown: "#1E1D20",
   invertedContrast: "#191326",
   input: "#202022",
-  inputSecondary: "#66578D",
+  inputSecondary: "#c13950",
   primaryDark: "#0098A1",
   tertiary: "#353547",
   text: "#e2effc",
@@ -9514,7 +9514,7 @@ var darkColors = __assign(__assign(__assign({}, baseColors), brandColors), {
     cardHeader: "linear-gradient(166.77deg, #3B4155 0%, #3A3045 100%)",
     blue: "linear-gradient(180deg, #00707F 0%, #19778C 100%)",
     violet: "linear-gradient(180deg, #6C4999 0%, #6D4DB2 100%)",
-    violetAlt: "linear-gradient(180deg, #434575 0%, #66578D 100%)",
+    violetAlt: "linear-gradient(180deg, #434575 0%, #c13950 100%)",
   },
 });
 
