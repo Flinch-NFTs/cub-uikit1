@@ -21,7 +21,10 @@ Object.defineProperty(window, "matchMedia", {
   })),
 });
 
-const langs: LangType[] = [...Array(20)].map((_, i) => ({ code: `en${i}`, language: `English${i}` }));
+const langs: LangType[] = [...Array(20)].map((_, i) => ({
+  code: `en${i}`,
+  language: `English${i}`,
+}));
 
 it("renders correctly", () => {
   const { asFragment } = renderWithTheme(
@@ -387,7 +390,7 @@ it("renders correctly", () => {
       background-clip: text;
       -webkit-animation: fKQuCC 3s ease-in-out infinite;
       animation: fKQuCC 3s ease-in-out infinite;
-      background: linear-gradient(139.73deg,#E6FDFF 0%,#F3EFFF 100%);
+      background: linear-gradient(139.73deg,#00FFFFFF 0%,#F3EFFF 100%);
       background-size: 400% 100%;
     }
 
@@ -437,7 +440,7 @@ it("renders correctly", () => {
       background-clip: text;
       -webkit-animation: fKQuCC 3s ease-in-out infinite;
       animation: fKQuCC 3s ease-in-out infinite;
-      background: linear-gradient(139.73deg,#E6FDFF 0%,#F3EFFF 100%);
+      background: linear-gradient(139.73deg,#00FFFFFF 0%,#F3EFFF 100%);
       background-size: 400% 100%;
     }
 
