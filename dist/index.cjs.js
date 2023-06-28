@@ -7718,14 +7718,14 @@ var socials = [
     items: [
       {
         label: "English",
-        href: "https://t.me/cubdefi",
+        href: "https://t.me/ChirpFinance",
       },
     ],
   },
   {
     label: "Twitter",
     icon: "TwitterIcon",
-    href: "https://twitter.com/financeleo",
+    href: "https://twitter.com/ChirpFinance",
   },
 ];
 var MENU_HEIGHT = 64;

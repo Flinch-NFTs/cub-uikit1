@@ -25261,12 +25261,12 @@
           {
             label: "Discord",
             icon: "TelegramIcon",
-            items: [{ label: "English", href: "https://t.me/cubdefi" }],
+            items: [{ label: "English", href: "https://t.me/ChirpFinance" }],
           },
           {
             label: "Twitter",
             icon: "TwitterIcon",
-            href: "https://twitter.com/financeleo",
+            href: "https://twitter.com/ChirpFinance",
           },
         ],
         rainbowAnimation = Object(styled_components_browser_esm.keyframes)([
