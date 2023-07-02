@@ -8000,7 +8000,7 @@ var CakePrice = function (_a) {
     ? React.createElement(
         PriceLink,
         {
-          href: "https://coinmarketcap.com/currencies/cub-finance/",
+          href: "https://coinmarketcap.com/currencies/chirp-finance/",
           target: "_blank",
         },
         React.createElement(Icon$V, { width: "24px", mr: "8px" }),

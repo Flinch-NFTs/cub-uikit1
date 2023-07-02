@@ -27385,7 +27385,7 @@
           var cakePriceUsd = _ref.cakePriceUsd;
           return cakePriceUsd
             ? Object(jsx_runtime.jsxs)(PriceLink, {
-                href: "https://coinmarketcap.com/currencies/cub-finance/",
+                href: "https://coinmarketcap.com/currencies/chirp-finance/",
                 target: "_blank",
                 children: [
                   Object(jsx_runtime.jsx)(components_Svg.n, {

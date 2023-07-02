@@ -8113,7 +8113,7 @@ var CakePrice = function (_a) {
     ? React__default["default"].createElement(
         PriceLink,
         {
-          href: "https://coinmarketcap.com/currencies/cub-finance/",
+          href: "https://coinmarketcap.com/currencies/chirp-finance/",
           target: "_blank",
         },
         React__default["default"].createElement(Icon$V, {
