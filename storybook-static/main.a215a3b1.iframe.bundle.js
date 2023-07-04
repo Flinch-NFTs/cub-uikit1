@@ -27385,7 +27385,7 @@
           var cakePriceUsd = _ref.cakePriceUsd;
           return cakePriceUsd
             ? Object(jsx_runtime.jsxs)(PriceLink, {
-                href: "https://coinmarketcap.com/currencies/chirp-finance/",
+                href: "https://dexscreener.com/pulsechain/0x508e6e53937c390044222eb471d9cd38c17b4183",
                 target: "_blank",
                 children: [
                   Object(jsx_runtime.jsx)(components_Svg.n, {
