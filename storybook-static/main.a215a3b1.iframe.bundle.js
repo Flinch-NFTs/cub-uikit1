@@ -32043,9 +32043,9 @@
               children: [
                 Object(jsx_runtime.jsx)(LinkExternal.a, {
                   small: !0,
-                  href: "https://bscscan.com/address/" + account,
+                  href: "https://scan.pulsechain.com/address/" + account,
                   mr: "16px",
-                  children: "View on BscScan",
+                  children: "View on PulseScan",
                 }),
                 Object(jsx_runtime.jsx)(WalletModal_CopyToClipboard, {
                   toCopy: account,

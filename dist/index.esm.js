@@ -8850,10 +8850,10 @@ var AccountModal = function (_a) {
         LinkExternal,
         {
           small: true,
-          href: "https://bscscan.com/address/" + account,
+          href: "https://scan.pulsechain.com/address/" + account,
           mr: "16px",
         },
-        "View on BscScan"
+        "View on PulseScan"
       ),
       React.createElement(CopyToClipboard, { toCopy: account }, "Copy Address")
     ),
